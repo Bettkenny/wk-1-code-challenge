@@ -1,4 +1,7 @@
 # wk-1-code-challenge
+#Student-Grade-Generator
+#Speed-Detector
+#Net-Salary-Calculator
 Generating student grades
 The function prompts the user to input students' marks between 0 to 100. The getStudentGrade() function prompts the user to input a student's mark and then checks whether the input is valid. If the input is not between 0 and 100, the function returns an error message. Otherwise, it checks the mark against each grade boundary and returns the corresponding grades.
 
